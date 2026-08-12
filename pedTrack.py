@@ -2,6 +2,7 @@ import cv2
 from ultralytics import YOLO
 
 # Load the YOLOv8 model
+# This comment is just for demo
 model = YOLO('yolov8n.pt')
 
 # Open the video file
